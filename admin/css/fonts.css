@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: yekan;
+    src: url('font/yekan.eot');
+    src: url('font/yekan.eot') format('FontName-opentype'),
+    url('font/yekan.woff') format('woff'),
+    url('font/yekan.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: samim;
+    src: url('font/samim.eot');
+    src: url('font/samim.eot') format('FontName-opentype'),
+    url('font/samim.woff') format('woff'),
+    url('font/samim.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: samim_bold;
+    src: url('font/samim-bold.eot');
+    src: url('font/samim-bold.eot') format('FontName-opentype'),
+    url('font/samim-bold.woff') format('woff'),
+    url('font/samim-bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}

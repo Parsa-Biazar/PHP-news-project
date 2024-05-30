@@ -1,0 +1,23 @@
+*,body,html{
+    direction: rtl;
+}
+.label {
+    cursor: pointer;
+!important;
+}
+*.label {
+    cursor: pointer;!important;
+}
+
+label {
+    cursor: pointer;!important;
+}
+form label{
+    user-select: none;
+    cursor: pointer;
+}
+
+.comment-box{
+    border: 1px solid darkgreen;
+    border-radius: 5px;
+}

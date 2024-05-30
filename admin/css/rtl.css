@@ -1,0 +1,25 @@
+body{
+    /*direction: rtl;*/
+    font-family: samim, serif;
+}
+
+.card{
+    direction: rtl;
+}
+
+table th, table td{
+    text-align: center !important;
+    vertical-align: middle !important;
+}
+
+table img{
+    width: 50px;
+    height: 50px;
+}
+
+td tr .show_color{
+    width: 50px;
+    height: 40px;
+    border-radius: 50px;
+    !important;
+}
